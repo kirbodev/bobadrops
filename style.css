@@ -1,10 +1,10 @@
-h1 {
-    color: red;
-}
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Hegarty&display=swap');
 
 body {
     text-align: center;
     font-family: 'Arial';
-    background: green;
-    color: purple;
+}
+
+p {
+    font-family: 'BBH Sans Hegarty';
 }
